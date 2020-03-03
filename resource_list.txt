@@ -1,5 +1,0 @@
-List of resources: 
-https://www.raspberrypi.org/blog/raspberry-pi-3-baby-monitor-hackspace-magazine-26/
-https://kamranicus.com/guides/raspberry-pi-3-baby-monitor
-https://www.twilio.com/blog/smart-baby-monitor-python-raspberry-pi-twilio-sms-peripheral-sensors
-https://opensource.com/article/18/3/build-baby-monitor-raspberry-pi
