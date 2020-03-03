@@ -1,0 +1,13 @@
+This video showed me how to install the camera module.
+
+- https://www.youtube.com/watch?v=T8T6S5eFpqE
+
+
+This site showed me the basics of Raspberry Pi Cam Web Interface
+
+- http://www.raspberry-pi-geek.com/Archive/2016/15/Using-the-RPi-Cam-Web-Interface
+
+
+This site was the documentation for RPi-Cam-Web-Interface
+
+- https://elinux.org/RPi-Cam-Web-Interface#Move_saved_images_and_videos_to_another_folder
